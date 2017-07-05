@@ -1,2 +1,2 @@
 # howtopropaganda
-How to Propaganda; website to present a satric video.
+How to Propaganda; website for presenting a satric video.
